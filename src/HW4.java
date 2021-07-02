@@ -3,6 +3,9 @@ public class HW4 {
     dfg
 
     public go getDfg() {
-        return dfg;
+        hashCode(
+
+
+
     }
 }
